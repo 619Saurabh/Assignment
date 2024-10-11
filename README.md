@@ -10,5 +10,6 @@ VITE_RAPID_API_HOST =
 
 Install dependencies
 npm i
+
 Run Frontend
 npm run dev
